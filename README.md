@@ -1,6 +1,6 @@
 # Redux Project
 
-Redux Simple Counter Project with React from Max's Porject
+Redux / Redux Tool Kit Examples Project with React from Max's Porject
 
 ## Course
 
